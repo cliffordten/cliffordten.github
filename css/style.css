@@ -43,6 +43,8 @@ h4 {
   width: 100%;
   font-size: 18px;
   font-weight: bolder;
+  background-color: #004794 !important;
+  border-color: #004794 !important;
 }
 .hr {
   margin-bottom: 3em;
