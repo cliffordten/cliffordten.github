@@ -41,6 +41,7 @@ h4 {
 
 .btn.btn-primary {
   width: 100%;
+  font-weight: bolder;
 }
 .hr {
   margin-bottom: 3em;
