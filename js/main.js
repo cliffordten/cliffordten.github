@@ -89,12 +89,6 @@ $().ready(function () {
         return;
     }
 
-    if( typeof population == 'string' || typeof timeToElapse == 'string' || typeof reportedCases == 'string' || typeof totalHospitalBeds == 'string'){
-        $('p.hide').addClass('p')
-        $('p.p1').removeClass('p1').addClass('hide');
-        return;
-    }
-
     const data = {
       region: {
         name: "Africa",
